@@ -109,3 +109,7 @@
     top: 45%;
     border-radius: 50%;
   }
+
+  .eye.left {
+    left: 25%;
+  }
