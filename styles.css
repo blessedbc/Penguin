@@ -142,3 +142,9 @@
   .blush.right {
     right: 15%;
   }
+
+  .beak {
+    height: 10%;
+    background-color: var(--penguin-picorna);
+    border-radius: 50%;
+  }
