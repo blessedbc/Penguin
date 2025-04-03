@@ -249,3 +249,8 @@
     border-radius: 50%;
     z-index: -1;
   }
+
+  .foot.left {
+    left: 25%;
+    transform: rotate(80deg);
+  }
